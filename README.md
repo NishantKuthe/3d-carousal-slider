@@ -3,5 +3,9 @@ ui /ux  project
 #vido....
 
 
-https://github.com/NishantKuthe/3d-carousal-slider/assets/109781546/0eaae60a-655e-4f94-afa0-c9acaa4463c0
+
+
+
+https://github.com/user-attachments/assets/4dad7418-7f8b-4e3a-8367-5e2f8783e484
+
 
